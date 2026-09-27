@@ -1,0 +1,29 @@
+Chapter one notes  
+
+1.1 - What is a computer Program
+Binary - numbers represented by 0 and 1 so computer can understand
+HexaDecimal - More simpler version of binary to shorten each hexadecimal into words
+Machine Code - Code that computer understands with 0 and 1 and direclty executes
+Source Code - Code humans can write on that translates to machine code so computers can understand it
+
+1.2 - Terminal Commands
+Ls        To list all files in a directory
+Mkdir     New Folder
+Cd        Change Directory
+open      to open a file
+touch     New File
+cat       peek into contents of a file
+mv        move folder( type the folder and then type the folder to move to)
+mv        Same idea but rename
+rm        remove the file
+cd..      bakc a directory
+rm -r     remove a folder
+
+1.3 and 1.4 Installed python and VS code.
+1.5 -  keyboard shortcuts
+
+1.6 - Github
+
+Github - a website where people store, share, and collaborate on code. Its mainly used by programmers and development teams.
+Repository: A storage location for a project and its files
+Commit: Basically save changes
