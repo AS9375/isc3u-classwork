@@ -1,1 +1,49 @@
-test one two three
+2.1
+
+# Python Notes — Integers, Floats & Arithmetic
+
+## Integers and Floats
+
+Integer (int) = a whole number.
+Example: age = 16
+
+Float (float) = a number with a decimal.
+Example: price = 19.99
+
+Use type() to check the type of a value.
+Example: type(10) → int
+Example: type(10.5) → float
+
+## Arithmetic Operators
+
+| Operator | Operation           | Example | Result |
+| -------- | ------------------- | ------- | ------ |
+| +        | Addition            | 5 + 2   | 7      |
+| -        | Subtraction         | 5 - 2   | 3      |
+| *        | Multiplication      | 5 * 2   | 10     |
+| /        | Division            | 5 / 2   | 2.5    |
+| **       | Exponent            | 5 ** 2  | 25     |
+| %        | Modulus (remainder) | 5 % 2   | 1      |
+| //       | Floor division      | 5 // 2  | 2      |
+
+
+
+2.2
+
+## Tracing Numerical Variables
+
+Tracing means following a program step-by-step and keeping track of how the variables change.
+
+Example:
+
+x = 5
+x = x + 2
+x = x * 3
+
+Start: x = 5
+After x = x + 2 → x = 7
+After x = x * 3 → x = 21
+
+Final value: x = 21
+
+Tracing helps you understand what a program does and find the final value of its variables.
